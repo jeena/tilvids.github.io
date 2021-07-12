@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: TILvids Blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Updates from TILvids
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://pixelfed-prod.nyc3.cdn.digitaloceanspaces.com/public/m/_v2/267497187179630592/bf1ba8b1c-ed24ad/G7C0esLTzUD9/JXSxprtRiZI3cf37VCCIfDGsSIJW3yUEI4GV7gX7.png
 
 #
 # Flags below are optional
