@@ -1,3 +1,8 @@
+---
+layout: post
+title: TILvids Update - October 2020
+---
+
 Welcome to October, [TILvids](https://tilvids.com) community! I've decided I'm going to try to do these updates at the beginning of the month, so as to retroactively look at how things went the previous month, and then hopefully highlight anything I'm hoping to see in the next month.
 
 Some of the main highlights in September:
