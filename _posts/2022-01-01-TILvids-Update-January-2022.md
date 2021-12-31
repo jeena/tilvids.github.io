@@ -5,11 +5,7 @@ title: TILvids Update - January 2022
 
 Welcome to January 2022, TILvids community! Because this is the last post for 2021, and since I've had some requests for a video update in the past, I thought I'd take the opportunity to make a "Year in Review" video for the TILvids community. So without further ado, here is the TILvids 2021 Year in Review video!
 
-https://user-images.githubusercontent.com/69435791/147835992-dbd419c7-7b73-4e46-8dbb-3a0c117fbf65.mp4
-
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" title="TILvids 2021 Year in Review" src="https://tilvids.com/videos/embed/02781a54-cc2a-4398-93b1-c0a35f6ee057?warningTitle=0&peertubeLink=0" frameborder="0" allowfullscreen></iframe>
-
-(sadly, Github doesn't have a way to embed PeerTube videos as far as I can tell, so head on over to [the video page on TILvids](https://tilvids.com/w/1iFFVm3PUMqn9rrQUrMauB) to watch it in full 1080p60!)
 
 - I had a request to track some of the site stats. As of January 1st, 2022, we currently have 96,702 video views, 1252 users, and 185GB of local videos. It's worth keeping in mind that many instances don't clear out the spam accounts, but I do try to keep on top of that, which is deflating our total number of users (but is, in my mind, very much worth it).
 
